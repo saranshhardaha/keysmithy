@@ -9,7 +9,7 @@
 
 **🌐 [Live Demo](https://forgebyte.vercel.app)** | **📖 [Documentation](#documentation)** | **🐛 [Report Bug](https://github.com/saranshhardaha/forgebyte/issues)**
 
-![KeySmithy logo](https://github.com/saranshhardaha/keysmithy/blob/main/public/keysmithy.webp?raw=true)
+![KeySmithy logo](https://github.com/saranshhardaha/keysmithy/blob/master/public/keysmithy.webp?raw=true)
 
 ## ☕ Support the Creator
 
