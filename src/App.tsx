@@ -6,7 +6,7 @@ import { PasswordLength } from './components/PasswordLength';
 import { PasswordStrengthDisplay } from './components/PasswordStrength';
 import { PasswordHistory } from './components/PasswordHistory';
 import { Presets } from './components/Presets';
-import { WhyKeySmithy } from './components/WhyForgeByte';
+import { WhyKeySmithy } from './components/WhyKeySmithy';
 import { PasswordSecurity } from './components/PasswordSecurity';
 import { CommonMistakes } from './components/CommonMistakes';
 import { PasswordGuidelines } from './components/PasswordGuidelines';
@@ -195,7 +195,7 @@ function App() {
 
             <div className="flex items-center justify-center space-x-6 pt-4">
               <a
-                href="https://github.com/saranshhardaha/forgebyte"
+                href="https://github.com/saranshhardaha/keysmithy"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center space-x-2 text-gray-600 hover:text-gray-900 transition-colors text-sm"

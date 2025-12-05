@@ -7,7 +7,7 @@
 
 > KeySmithy forges strong, secure passwords with the craftsmanship of a blacksmith and the trust of a vault. Open source, privacy-first, and developer-friendly.
 
-**🌐 [Live Demo](https://forgebyte.vercel.app)** | **📖 [Documentation](#documentation)** | **🐛 [Report Bug](https://github.com/saranshhardaha/forgebyte/issues)**
+**🌐 [Live Demo](https://keysmithy.vercel.app)** | **📖 [Documentation](#documentation)** | **🐛 [Report Bug](https://github.com/saranshhardaha/keysmithy/issues)**
 
 ![KeySmithy logo](https://github.com/saranshhardaha/keysmithy/blob/master/public/keysmithy.webp?raw=true)
 
@@ -54,8 +54,8 @@ Your support helps maintain and improve KeySmithy, keeping it free and open-sour
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/saranshhardaha/forgebyte.git
-   cd forgebyte
+   git clone https://github.com/saranshhardaha/keysmithy.git
+   cd keysmithy
    ```
 
 2. **Install dependencies**
@@ -166,14 +166,14 @@ KeySmithy works on all modern browsers that support the Web Crypto API:
 We welcome contributions! Here's how you can help:
 
 ### 🐛 Bug Reports
-Found a bug? [Open an issue](https://github.com/saranshhardaha/forgebyte/issues) with:
+Found a bug? [Open an issue](https://github.com/saranshhardaha/keysmithy/issues) with:
 - Steps to reproduce
 - Expected vs actual behavior
 - Browser and OS information
 - Screenshots if applicable
 
 ### 💡 Feature Requests
-Have an idea? [Create a feature request](https://github.com/saranshhardaha/forgebyte/issues) with:
+Have an idea? [Create a feature request](https://github.com/saranshhardaha/keysmithy/issues) with:
 - Clear description of the feature
 - Use case and benefits
 - Mockups or examples (if applicable)
@@ -276,9 +276,8 @@ copies or substantial portions of the Software.
 
 ## 📞 Contact & Support
 
-- **Issues**: [GitHub Issues](https://github.com/saranshhardaha/forgebyte/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/saranshhardaha/forgebyte/discussions)
-- **Email**: security@forgebyte.dev
+- **Issues**: [GitHub Issues](https://github.com/saranshhardaha/keysmithy/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/saranshhardaha/keysmithy/discussions)
 - **Ko-fi**: [Support the Creator](https://ko-fi.com/saranshh)
 
 ---
@@ -287,7 +286,7 @@ copies or substantial portions of the Software.
 
 If KeySmithy helped you, please consider giving it a star! ⭐
 
-[![Star History Chart](https://api.star-history.com/svg?repos=saranshhardaha/forgebyte&type=Date)](https://star-history.com/#saranshhardaha/forgebyte&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=saranshhardaha/keysmithy&type=Date)](https://star-history.com/#saranshhardaha/keysmithy&Date)
 
 ---
 
@@ -295,6 +294,6 @@ If KeySmithy helped you, please consider giving it a star! ⭐
 
 **Made with ❤️ for security and privacy**
 
-[🔐 Generate Secure Passwords](https://forgebyte.vercel.app) • [⭐ Star on GitHub](https://github.com/saranshhardaha/forgebyte) • [☕ Support Creator](https://ko-fi.com/saranshh)
+[🔐 Generate Secure Passwords](https://keysmithy.vercel.app) • [⭐ Star on GitHub](https://github.com/saranshhardaha/keysmithy) • [☕ Support Creator](https://ko-fi.com/saranshh)
 
 </div>

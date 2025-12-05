@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for ForgeByte
+about: Suggest an idea for keysmithy
 title: '[FEATURE] '
 labels: enhancement
 assignees: ''

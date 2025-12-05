@@ -48,8 +48,8 @@ Feature suggestions are welcome! Please:
 ### Local Development
 ```bash
 # Clone your fork
-git clone https://github.com/saranshhardaha/forgebyte.git
-cd forgebyte
+git clone https://github.com/saranshhardaha/keysmithy.git
+cd keysmithy
 
 # Install dependencies
 npm install
@@ -142,9 +142,9 @@ We especially welcome contributions in:
 ## ❓ Questions?
 
 If you have questions about contributing:
-- Check existing [GitHub Discussions](https://github.com/saranshhardaha/forgebyte/discussions)
+- Check existing [GitHub Discussions](https://github.com/saranshhardaha/keysmithy/discussions)
 - Create a new discussion
-- Reach out via email: contribute@forgebyte.dev
+- Reach out via email: contribute@keysmithy.dev
 
 ## 🙏 Recognition
 

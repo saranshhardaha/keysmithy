@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve ForgeByte
+about: Create a report to help us improve keysmithy
 title: '[BUG] '
 labels: bug
 assignees: ''
@@ -27,7 +27,7 @@ A clear and concise description of what actually happened.
 - Browser: [e.g. Chrome 91, Firefox 89, Safari 14]
 - OS: [e.g. Windows 10, macOS 11, iOS 14]
 - Device: [e.g. Desktop, iPhone 12, Samsung Galaxy]
-- ForgeByte Version: [e.g. 1.0.0]
+- keysmithy Version: [e.g. 1.0.0]
 
 **📸 Screenshots**
 If applicable, add screenshots to help explain your problem.
